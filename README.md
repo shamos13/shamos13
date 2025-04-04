@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Amos Prosper Kwatuha, a passionate backend developer specializing in Java and Spring Boot.  
-🎓 I'm a final-year Bachelor of Science in Software Engineering student at the University of Eastern Africa, Baraton.  
+🎓 I'm a third-year Bachelor of Science in Software Engineering student at the University of Eastern Africa, Baraton.  
 💼 I'm experienced in building scalable backend systems, with expertise in Java, Python, SQL, and Git.  
 🔐 I also have some knowledge of cybersecurity, constantly improving my skills in this area.  
 💡 I'm currently working on a Car Rental System built with Spring Boot, aiming to design a clean, production-ready architecture.  

@@ -3,7 +3,7 @@ I'm Amos Prosper Kwatuha, a passionate software developer specializing in Java a
 🎓 I'm a fourth-year Bachelor of Science in Software Engineering student at the University of Eastern Africa, Baraton.  
 💼 I'm experienced in building scalable backend systems, with expertise in Java, Python, SQL,PostgreSQL and Git.  
 🔐 I also have some knowledge of cybersecurity, constantly improving my skills in this area.  
-💡 I'm currently working on a Car Rental System built with Spring Boot and Reacr, aiming to design a clean, production-ready architecture.  
+💡 I'm currently working on a Car Rental System built with Spring Boot and React, aiming to design a clean, production-ready architecture.  
 🤖 I'm interested in AI and machine learning, continuously exploring new technologies to enhance my skills.  
 📫 Let's collaborate and build something amazing!  
 <!--
